@@ -1,3 +1,5 @@
 .DS_Store
 ignoreme.txt
 index.html
+newfile.html
+*.css
